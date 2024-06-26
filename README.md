@@ -11,3 +11,11 @@ To run benchmarks:
   gcc nock-turn-10.c -o turn1.bin -O2 -lm -lpthread
   ./turn1.bin
   ```
+
+Simple things to try:
+  - [ ] Register `bend.hoon`
+  - [ ] Try running `++turn-alt`
+  - [ ] Extend atoms to arbitrary size `(List u28)`
+
+Harder milestones:
+  - [ ] Compile formulas (and cores?) to HVM lambdas
