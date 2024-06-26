@@ -13,7 +13,7 @@ To run benchmarks:
   ```
 
 Simple things to try:
-  - [ ] Register `bend.hoon`
+  - [ ] Register `pico.hoon`
   - [ ] Try running `++turn-alt`
   - [ ] Extend atoms to arbitrary size `(List u28)`
 
